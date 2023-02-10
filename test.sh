@@ -1,3 +1,5 @@
 #!/bin/bash
-if
+if true; then
+	echo hello
 fi
+
